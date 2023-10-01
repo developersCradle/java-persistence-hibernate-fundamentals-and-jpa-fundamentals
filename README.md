@@ -2,7 +2,7 @@
 
 Attempt to study and implement Java Persistence/Hibernate/JPA
 
-<img src="jpaCourse.JPG" alt="alt text" width="700"/>
+<img src="jpaCourse.jpg" alt="Jpa Course here" width="700"/>
 
 All course material from **Java Persistence: Hibernate and JPA Fundamentals** by from Deshraj Singh Kiran 
 
